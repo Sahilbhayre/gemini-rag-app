@@ -181,8 +181,8 @@ def run_llm_simple(prompt_text: str) -> str:
 
 
 # ---------------- STREAMLIT UI ----------------
-st.set_page_config(page_title="Gemini RAG (No Voice)", layout="wide")
-st.title("📚 Google Gemini RAG — No Voice (Full features minus audio)")
+st.set_page_config(page_title="Gemini RAG ", layout="wide")
+st.title("📚 Google Gemini RAG — Sahil Bhayre")
 
 left, right = st.columns([1, 2])
 
@@ -455,3 +455,4 @@ if HAS_PDF2IMAGE and st.session_state.docs_by_file:
 
 
 st.caption("Features included: multi-PDF, per-page + full summaries, RAG retrieval, highlights, follow-ups, chat history, save/load index, export. No voice features included.")
+
