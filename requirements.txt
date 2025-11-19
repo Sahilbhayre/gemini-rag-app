@@ -1,21 +1,21 @@
 streamlit==1.36.0
 
-google-generativeai==0.8.5
+# Google Gemini SDK compatible with LangChain
+google-generativeai==0.5.4
 google-ai-generativelanguage==0.6.15
 
+# LangChain ecosystem (all compatible versions)
 langchain==0.2.12
 langchain-core==0.2.27
 langchain-community==0.2.11
 langchain-text-splitters==0.2.2
 langchain-google-genai==1.0.6
 
-faiss-cpu==1.8.0
+# Vector store (working version for Streamlit Cloud)
+faiss-cpu==1.13.0
 
-python-dotenv==1.0.1
-pypdf==4.2.0
-
-gtts==2.3.2
-SpeechRecognition==3.10.0
-pydub==0.25.1
-
-
+# Others
+python-dotenv
+pypdf
+gtts
+SpeechRecognition
