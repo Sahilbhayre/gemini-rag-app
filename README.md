@@ -56,17 +56,7 @@ Upload PDFs, ask questions, generate summaries, extract information, and much mo
 ---
 
 ## 🌐 Live Demo
-🔗 **https://your-streamlit-app-url.streamlit.app**
-
----
-
-## 🎥 Video Demo  
-*A 30–45 second demo video should include:*  
-- Uploading PDFs  
-- Asking questions  
-- Getting AI answers  
-- Summary generation  
-- Saving/loading index  
+🔗 **https://sahil-bhayre-rag-app-kqp3itcweumphvq6fo9mwn.streamlit.app/**
 
 ---
 
@@ -88,5 +78,6 @@ Open-source — feel free to modify & improve.
 ## 👨‍💻 Author
 **Sahil Bhayre**  
 AI & Full‑Stack Developer  
+
 
 
