@@ -1,4 +1,4 @@
-# Gemini RAG PDF Assistant
+# AI-Powered PDF Assistant
 
 A Streamlit app using Google Gemini (via Google Generative AI SDK) and FAISS vector search.
 
@@ -8,4 +8,5 @@ A Streamlit app using Google Gemini (via Google Generative AI SDK) and FAISS vec
 3. Click “New App”
 4. Select your repository & main.py
 5. Add environment variable:
+
 
